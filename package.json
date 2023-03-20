@@ -1,0 +1,24 @@
+{
+  "name": "mock_backend_render",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satan7549/Mock_Backend_render.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satan7549/Mock_Backend_render/issues"
+  },
+  "homepage": "https://github.com/satan7549/Mock_Backend_render#readme",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  }
+}
