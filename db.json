@@ -1,4 +1,28 @@
 {
-  "users": [],
-  "recipes":[]
+  "users": [
+    {
+      "username": "chandra",
+      "email": "sachin@gmail.com",
+      "password": "masaischool",
+      "id": 1
+    },
+    {
+      "username": "satan",
+      "email": "satansharma7549@gmail.com",
+      "password": "masaischool",
+      "id": 2
+    }
+  ],
+  "recipes": [
+    {
+      "username": "satan",
+      "title": "adfsd",
+      "image": "sdfgjbk",
+      "description": "assfdsd",
+      "category": "starter",
+      "ingredients": "afd",
+      "instructions": "dsfs",
+      "id": 1
+    }
+  ]
 }
